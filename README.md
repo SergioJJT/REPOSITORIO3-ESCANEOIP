@@ -15,17 +15,17 @@ Este script en **Bash** permite detectar dispositivos activos en una red local, 
 
 ```bash
 git clone https://github.com/tuusuario/network-scanner.git
-cd network-scanner
+cd network-scanner```
 
 2️⃣ Asigna permisos de ejecución al script:
 
 ```bash
-chmod +x scanner.sh
+chmod +x scanner.sh```
 
 3️⃣ Ejecuta el script en una terminal:
 
 ```bash
-./scanner.sh
+./scanner.sh```
 
 4️⃣ Sigue las instrucciones ingresando los octetos de la red que deseas escanear.
 
