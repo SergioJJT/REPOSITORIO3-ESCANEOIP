@@ -28,10 +28,11 @@ chmod +x scanner.sh
 
 5️⃣ Una vez finalizado, el informe se guardará automáticamente en un archivo Informe.txt.
 
-#####⚙️ Requisitos
+## ⚙️ Requisitos
 Sistema operativo Linux o MacOS (no compatible con Windows).
 Herramientas básicas de red preinstaladas (ping, hostname, bash).
-📂 Archivos
+
+## 📂 Archivos
 scanner.sh
 Este es el archivo principal que ejecuta todo el proceso. Su función es escanear la red local en busca de dispositivos activos, identificar puertos abiertos y generar un informe con los resultados.
 
